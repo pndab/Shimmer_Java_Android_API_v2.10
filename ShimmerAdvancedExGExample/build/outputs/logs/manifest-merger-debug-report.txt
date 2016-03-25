@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:1:1-33:12
+	xmlns:android
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:2:5-52
+	android:versionName
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:4:5-30
+	android:versionCode
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:6:5-8:41
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:8:9-38
+	android:minSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:7:9-35
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:10:5-90
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:11:22-65
+application
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:13:5-31:19
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:17:9-40
+activity#com.shimmerresearch.advancedexgexample.ShimmerAdvancedExGExample
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:19:10-24:20
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:19:20-52
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:19:53-132
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:22:27-74
+activity#com.shimmerresearch.advancedexgexample.DeviceListActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:25:3-28:20
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:26:19-56
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:27:19-73
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:25:13-85
+activity#com.shimmerresearch.advancedexgexample.CommandsActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:29:9-134
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:29:90-122
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:29:19-89
+service#com.shimmerresearch.service.ShimmerService
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:30:3-95
+	android:enabled
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:30:12-34
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerAdvancedExGExample/AndroidManifest.xml:30:35-92

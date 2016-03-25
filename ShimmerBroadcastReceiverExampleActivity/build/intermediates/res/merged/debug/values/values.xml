@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Paulo/Desktop/working%20shimmer/Shimmer_Java_Android_API_v2.10/ShimmerBroadcastReceiverExampleActivity/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">ShimmerBroadcastReceiverExample</string>
+    <string name="hello">Hello World, ShimmerReceiverExampleActivity!</string>
+</resources>

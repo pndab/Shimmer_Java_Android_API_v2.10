@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShimmerDriver.ShimmerDriver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ShimmerDriver/build/libs/ShimmerDriver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

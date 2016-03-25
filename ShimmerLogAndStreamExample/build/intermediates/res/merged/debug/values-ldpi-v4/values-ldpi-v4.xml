@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Paulo/Desktop/working%20shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/res/values-ldpi/textDimension.xml -->
+    <eat-comment/>
+    <dimen name="button_scan_size">45dp</dimen>
+    <dimen name="large">17sp</dimen>
+    <dimen name="medium">12sp</dimen>
+    <dimen name="small">8sp</dimen>
+</resources>

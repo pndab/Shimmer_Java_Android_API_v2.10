@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.shimmerresearch.multishimmerplay"
+    android:versionCode="1"
+    android:versionName="0.1" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.shimmerresearch.multishimmer.MultiShimmerPlayActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.shimmerresearch.multishimmer.MainCommandsActivity"
+            android:label="Main Commands"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.shimmerresearch.multishimmer.DeviceListActivity"
+            android:label="@string/select_device"
+            android:theme="@android:style/Theme.Dialog" >
+        </activity>
+        <activity
+            android:name="com.shimmerresearch.multishimmer.CommandsSub"
+            android:label="SubCommands"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.shimmerresearch.multishimmer.LoggingActivity"
+            android:label="Logging"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.shimmerresearch.multishimmer.ConfigureActivity"
+            android:label="Configure"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.shimmerresearch.multishimmer.GraphActivity"
+            android:label="Graph"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.shimmerresearch.multishimmer.SensorViewActivity"
+            android:label="Sensor View"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.shimmerresearch.multishimmer.ShimmerSetSound"
+            android:label="Select Sound"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name="com.shimmerresearch.multishimmer.ShimmerSoundsMain"
+            android:label="Select Sound Source"
+            android:theme="@android:style/Theme.Dialog" />
+
+        <service
+            android:name="com.shimmerresearch.service.MultiShimmerPlayService"
+            android:enabled="true" />
+    </application>
+
+</manifest>

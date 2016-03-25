@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="fea5ae55bfbecc0bb587a10254dc5d179cb0307e">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/classes-6d4a501b56851e1b5eb67610db1213ca375c4177.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/libs/vecmath-1.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a0ae4f51da409fa0c20fa0ca59e6bbc9413ae71d">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/vecmath-1.3.1-e870594bf4c908283d69a0c92a23e4836b9785ed.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/jars/libs/AndroidBluetoothLibrary.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="03becf78ee96fb5127a875bdb31b0c1c9581771e">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/AndroidBluetoothLibrary-e79e436c5c4df38b95a5856e7593a77616171617.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerDriver/build/libs/ShimmerDriver.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="96ebfa20d9b8bad6bdeedf7650883b3506f83b8a">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/ShimmerDriver-03c8d0d5877ffd3741d183b5fe05b622316b8f7b.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/libs/ShimmerBiophysicalProcessingLibrary_Rev_0_8.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="287ab52318aed9a015af812f5f51ad8959712610">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/ShimmerBiophysicalProcessingLibrary_Rev_0_8-ea790ea4f2f36e4ceebaf8ccf88eff439f8bf8e4.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/android-support-v4-1d43354205af9778a8c30089cab1d51335cd5eae.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/libs/guava-12.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/guava-12.0-a3e931f3b29b07819130837130f33e7af9fbfc1a.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/libs/javaml-0.1.7.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="0257c25af0f9cbba9df72392f77079effc48888e">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/javaml-0.1.7-b4683379960d51479c8b00e74ec999558e02f719.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/libs/commons-math-2.2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="4877b85d388275f994a5cfc7eceb73a8045d3006">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/commons-math-2.2-b0feca6db4057957604955fe57f2f9128f649818.jar" />
+    </item>
+    <item
+        jar="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/jars/libs/androidplot-core-0.5.0-release.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="72a0ec72a119887454de2745ccece3c659fcf0d2">
+        <dex dex="/Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGestureRecog/build/intermediates/pre-dexed/debug/androidplot-core-0.5.0-release-eccbf40a84c798a2c26cc4d3f846104160308cd5.jar" />
+    </item>
+
+</items>

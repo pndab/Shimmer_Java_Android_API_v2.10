@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:2:1-28:12
+	xmlns:android
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:4:33-88
+	android:versionName
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:4:7-32
+	android:versionCode
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:3:7-30
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:5:5-6:41
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:6:10-39
+	android:minSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:5:15-41
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:7:5-90
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:8:5-84
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:9:6-98
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:9:23-79
+application
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:11:5-27:19
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:11:5-15:19
+	android:allowBackup
+		ADDED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:11:18-50
+	android:debuggable
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:11:89-114
+	android:icon
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:11:51-88
+	android:theme
+		ADDED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:14:9-40
+activity#com.shimmerresearch.shimmergraphandlogservice.ShimmerGraphandLogService
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:12:9-17:20
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:12:19-51
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:12:52-138
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:15:27-74
+activity#com.shimmerresearch.shimmergraphandlogservice.DeviceListActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:18:3-21:20
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:19:19-56
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:20:19-62
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:18:13-92
+activity#com.shimmerresearch.shimmergraphandlogservice.ConfigureActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:22:3-188
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:22:136-176
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:22:92-135
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:22:13-91
+activity#com.shimmerresearch.shimmergraphandlogservice.SensorViewActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:23:5-191
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:23:139-179
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:23:95-138
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:23:15-94
+activity#com.shimmerresearch.shimmergraphandlogservice.CommandsActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:24:6-197
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:24:153-185
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:24:94-152
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:24:16-93
+activity#com.shimmerresearch.shimmergraphandlogservice.LogFileActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:25:5-194
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:25:151-182
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:25:92-150
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:25:15-91
+service#com.shimmerresearch.service.ShimmerService
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:26:4-96
+	android:enabled
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:26:13-35
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerGraphandLogService/AndroidManifest.xml:26:36-93

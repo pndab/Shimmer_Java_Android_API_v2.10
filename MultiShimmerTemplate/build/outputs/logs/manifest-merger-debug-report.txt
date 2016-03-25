@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:2:1-44:12
+	xmlns:android
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:3:5-55
+	android:versionName
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:7:5-9:41
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:10:5-90
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:11:2-81
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:11:19-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:12:2-94
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:12:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:13:2-64
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:13:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:14:2-76
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:14:19-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:15:2-73
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:15:19-70
+application
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:16:5-41:19
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:19:9-40
+activity#com.shimmerresearch.multishimmertemplate.MainActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:21:13-81
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:26:27-74
+activity#com.shimmerresearch.multishimmertemplate.DeviceListActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:38:9-190
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:38:94-123
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:38:124-178
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:38:19-93
+service#com.shimmerresearch.service.MultiShimmerTemplateService
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:39:9-114
+	android:enabled
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:39:18-40
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/MultiShimmerTemplate/AndroidManifest.xml:39:41-111

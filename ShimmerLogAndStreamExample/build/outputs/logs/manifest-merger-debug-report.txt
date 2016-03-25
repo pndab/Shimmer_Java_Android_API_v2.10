@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:1:1-34:12
+	xmlns:android
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:2:5-61
+	android:versionName
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:4:5-30
+	android:versionCode
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml
+		INJECTED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:6:5-8:41
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:8:9-38
+	android:minSdkVersion
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:7:9-35
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:10:5-90
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:10:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:11:22-65
+application
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:13:5-30:19
+MERGED from [Shimmer_Java_Android_API_v2.10:ShimmerAndroidInstrumentDriver:unspecified] /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/build/intermediates/exploded-aar/Shimmer_Java_Android_API_v2.10/ShimmerAndroidInstrumentDriver/unspecified/AndroidManifest.xml:11:5-15:19
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:15:9-46
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:17:9-40
+activity#com.shimmerresearch.shimmerlogandstreamexample.LogAndStreamExample
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:19:10-24:20
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:19:20-52
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:19:53-134
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:22:27-74
+activity#com.shimmerresearch.shimmerlogandstreamexample.DeviceListActivity
+ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:25:3-28:20
+	android:label
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:26:19-56
+	android:theme
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:27:19-73
+	android:name
+		ADDED from /Users/Paulo/Desktop/working shimmer/Shimmer_Java_Android_API_v2.10/ShimmerLogAndStreamExample/AndroidManifest.xml:25:13-93
